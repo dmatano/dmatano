@@ -4,3 +4,6 @@ My name is Duen Matano. I'm a developer based in Nairobi Kenya. I'm interested i
 **1.C# Mostly prefered.**<br/>
 2.Kotlin<br/>
 3.Python<br/>
+
+**----------Talk To Me---------**
+**Twitter:**twitter.com/__duen
