@@ -5,5 +5,5 @@ My name is Duen Matano. I'm a developer based in Nairobi Kenya. I'm interested i
 2.Kotlin<br/>
 3.Python<br/>
 
-**----------Talk To Me---------**
-**Twitter:**twitter.com/__duen
+**----------Talk To Me---------**<br/>
+**Twitter:**twitter.com/__duen<br/>
