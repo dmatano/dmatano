@@ -1,3 +1,4 @@
+Hey there,<br/>
 My name is Duen Matano. I'm a developer based in Nairobi Kenya. I'm interested in software development and problem solving.
 
 
