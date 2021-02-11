@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="460" height="300" src="https://github.com/mafive/mafive/blob/main/Capture.PNG">
+  <img src="https://github.com/mafive/mafive/blob/main/Capture.PNG">
 </p>
 
 #![alt text](https://github.com/mafive/mafive/blob/main/Capture.PNG "Logo Title Text 1")
